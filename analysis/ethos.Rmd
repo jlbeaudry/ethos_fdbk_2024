@@ -1,6 +1,6 @@
 ---
-title: "Ethos 'Essence of Research Leadership' Feedback"
-subtitle: "December 2024"
+title: "Ethos' Essence of Research Leadership"
+subtitle: "Evaluation (December 2024)"
 #author: "Jen Beaudry"
 #date: "09/12/2024"
 output: pdf_document
